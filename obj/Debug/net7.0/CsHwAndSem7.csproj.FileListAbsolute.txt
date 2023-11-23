@@ -1,0 +1,14 @@
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/bin/Debug/net7.0/CsHwAndSem7
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/bin/Debug/net7.0/CsHwAndSem7.deps.json
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/bin/Debug/net7.0/CsHwAndSem7.runtimeconfig.json
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/bin/Debug/net7.0/CsHwAndSem7.dll
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/bin/Debug/net7.0/CsHwAndSem7.pdb
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/CsHwAndSem7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/CsHwAndSem7.AssemblyInfoInputs.cache
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/CsHwAndSem7.AssemblyInfo.cs
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/CsHwAndSem7.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/CsHwAndSem7.dll
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/refint/CsHwAndSem7.dll
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/CsHwAndSem7.pdb
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/CsHwAndSem7.genruntimeconfig.cache
+/Users/user/Documents/Programming/C#/C# Dev/CsHwAndSem7/obj/Debug/net7.0/ref/CsHwAndSem7.dll
